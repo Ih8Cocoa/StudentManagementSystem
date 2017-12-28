@@ -3,8 +3,8 @@
 #include<stdlib.h>
 #include<ctype.h>
 #include<time.h>
-#include<conio.h>
 #ifdef _WIN32
+	#include<conio.h>
 	const char CLR[]="cls"; //define clear screen command on Windows
 	const char RESIZE[]="mode 300,40"; //define resize command on Windows
 #elif __linux__
