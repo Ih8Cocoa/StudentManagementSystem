@@ -1,5 +1,3 @@
 # StudentManagementSystem
 
-My name is Jeff
-naemaisffej
-cuckoo
+Compile with GCC 6 or higher
