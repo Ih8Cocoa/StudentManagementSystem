@@ -1,4 +1,4 @@
 # StudentManagementSystem
 
-My name is Jeff
+My name is Jeff\n
 naemaisffej
