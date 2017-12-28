@@ -18,7 +18,7 @@
 #else
 	#include <termios.h>
 	//Does not support clear-screen and resizing commands on other platforms at the moment
-	const char CLR[]="";
+	const char CLR[]="clear";
 	const char RESIZE[]="";
 	//re-declare getch(), strupr() and strlwr()
 	char _getch(); 
