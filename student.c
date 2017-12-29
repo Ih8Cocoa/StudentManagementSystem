@@ -57,7 +57,7 @@ char Id_e[30]; //this variable is global, and can be used by all functions
 const unsigned int MAX=1001;
 
 int main(){
-	system(RESIZE); //resize console window (only tested on Windows) by passing the defined string to system
+	system(RESIZE); //resize console window (only tested on Windows) by passing the defined string to system()
     unsigned short select, srAv=0; //select = user option, srAv = search availability
     unsigned i,j;
     char sr[101]; //contains search information entered by user
